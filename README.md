@@ -1,0 +1,2 @@
+# inteligecia
+clase
